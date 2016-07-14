@@ -1,8 +1,8 @@
 # OpenRiskEngine
 
 [Open Risk Engine](http://openriskengine.org) is a transparent platform for pricing and risk analysis, intended to serve as
-* benchmarking, validation, training, teaching reference 
-* extensible foundation for tailored risk solutions
+* a benchmarking, validation, training, teaching reference 
+* an extensible foundation for tailored risk solutions
 
 Open Risk Engine (ORE) provides
 * contemporary risk analytics and value adjustments (XVAs) 
@@ -23,12 +23,12 @@ A detailed User Guide is provided that covers
 * description of how to run the examples and which results to expect
 * trade and market data structure
 * application configuration
-* methodsology overview
+* methodology overview
 
 ## API Reference
 
 The source code is documented in doxygen, the API reference is
-available on the [OpenRiskEngine](http://openriskengine.org).
+available on the [OpenRiskEngine](http://openriskengine.org) project site.
 
 ## License
 
