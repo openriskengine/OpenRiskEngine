@@ -9,12 +9,17 @@ Open Risk Engine (ORE) provides
 * interfaces for trade/market data and system configuration (API and XML)
 * simple application launchers in Excel, LibreOffice, Python, Jupyter
 * various examples that demonstrate typical use cases
+* comprehensive test suites
 
 ORE is based on [QuantLib](http://quantlib.org), the free/open source library
 for quantitative finance, and it extends QuantLib in terms of simulation models, financial
 instruments and pricing engines.
 
-ORE is sponsored by [Quaternion Risk Management](http://quaternion.com) as a part of the firm's commitment to transparency in pricing methods and risk analytics applied in the industry. ORE is free/open software, provided under the Modified BSD License, which permits using, modifying the code base as well as incorporating it into commercial applications.
+ORE is sponsored by
+[Quaternion Risk Management](http://quaternion.com) as part of the
+firm's commitment to transparency in pricing methods and risk
+analytics applied in the industry. ORE is free/open software, provided
+under the Modified BSD License, which permits using and modifying the code base as well as incorporating it into commercial applications.
 
 ## Documentation
 
